@@ -66,7 +66,7 @@ int read_image()
         fread(img_buffer, 1, 204480, picture);
     }
 
-	return 0;
+    return 0;
 }
 
 
